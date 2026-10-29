@@ -183,7 +183,7 @@ export FUZZING_DEVICE="gpu"
 Before you start, you need to export OpenAI API key to the environment variable `OPENAI_API_KEY`, 
 here we provide a key (which will be removed after end of evaluation period) for you to test:
 ```
-export OPENAI_API_KEY=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
+export OPENAI_API_KEY=YOUR_API_KEY
 ```
 
 #### 1. Simple Script.
